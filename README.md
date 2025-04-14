@@ -3,7 +3,7 @@
 
 - 🔭 atualmente trabalho como promotor de vendas **Rica alimentos**
 
-- 🌱 modulo de frontend concluido, atualmente estou aprendendo backend **vue.js e react**
+- 🌱 modulo de frontend concluido, atualmente estou aprendendo backend.
 
 - 📄 meu curriculo [https://www.linkedin.com/in/allan-johnny/](https://www.linkedin.com/in/allan-johnny/)
 
