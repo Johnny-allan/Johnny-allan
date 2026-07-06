@@ -1,9 +1,5 @@
 <h1 align="center">Ola 👋, eu sou Allan Johnny</h1>
-<h3 align="center"> Sou graduado em jogos digitais pela UNESA e estudante de programação</h3>
-
-- 🔭 atualmente trabalho como promotor de vendas **Rica alimentos**
-
-- 🌱 modulo de frontend concluido, atualmente estou aprendendo backend.
+<h3 align="center"> Sou graduado em jogos digitais pela UNESA e Fullsack</h3>
 
 - 📄 meu curriculo [https://www.linkedin.com/in/allan-johnny/](https://www.linkedin.com/in/allan-johnny/)
 
